@@ -1,0 +1,13 @@
+main:
+  - title: "Trang Chủ"
+    url: "/"
+    children:
+      - title: "Tài liệu Công ty"
+        url: "/docs/tai_lieu_cong_ty.html"
+      - title: "Lịch trình"
+        url: "/docs/lich_trinh.html"
+        children:
+          - title: "Lịch trình 2024"
+            url: "/docs/lich_trinh/2024.html"
+  - title: "Tài liệu Dự án"
+    url: "/docs.html"

@@ -1,26 +1,16 @@
+---
+title: Trang Chủ
+nav_order: 1
+has_children: true
+---
+
 # Đạp Xe Xuyên Việt 🚴‍♂️
 
 > Chuyến hành trình khám phá đất nước bằng xe đạp - từ Bắc đến Nam
 
 ## 📋 Tài liệu công ty
 
-### Giấy đề nghị đăng ký doanh nghiệp
-
-<iframe src="https://onedrive.live.com/embed?resid=51C231C66B78D55F%2119345&authkey=!AAFLSTEzZVcWZbk&em=2" width="100%" height="800" frameborder="0">
-This is an embedded Microsoft Office document, powered by Office.
-</iframe>
-
-### Điều lệ công ty
-
-<iframe src="https://onedrive.live.com/embed?resid=51C231C66B78D55F%2119325&authkey=%21AD03DQvNZP4F8HU&em=2" width="100%" height="800" frameborder="0">
-This is an embedded Microsoft Office document, powered by Office.
-</iframe>
-
-### Danh sách thành viên
-
-<iframe src="https://onedrive.live.com/embed?resid=51C231C66B78D55F%2119346&authkey=!AB4uCZ0pGs2Fr_0&em=2" width="100%" height="800" frameborder="0">
-This is an embedded Microsoft Office document, powered by Office.
-</iframe>
+[📄 Xem tài liệu công ty](docs/tai_lieu_cong_ty.md)
 
 ## 🗓️ Lịch trình Dự kiến
 

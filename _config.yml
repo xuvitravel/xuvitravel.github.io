@@ -1,2 +1,18 @@
 title: XuVi
 description: Đạp xe xuyên Việt!
+
+# Enable Jekyll plugins for better navigation
+plugins:
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+
+# Default layout configuration
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Navigation configuration
+nav_enabled: true
+nav_sort: case_insensitive

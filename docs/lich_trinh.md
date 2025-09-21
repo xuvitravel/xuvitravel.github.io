@@ -1,3 +1,9 @@
+---
+title: Lịch trình
+nav_order: 3
+has_children: true
+---
+
 # 🗓️ Lịch trình Đạp Xe Xuyên Việt
 
 > Kế hoạch chi tiết cho hành trình khám phá Việt Nam bằng xe đạp

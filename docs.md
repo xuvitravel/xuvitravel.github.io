@@ -6,14 +6,14 @@
 
 ### 📋 Tài liệu pháp lý
 
-- [Giấy đề nghị đăng ký doanh nghiệp](../#giấy-đề-nghị-đăng-ký-doanh-nghiệp)
-- [Điều lệ công ty](../#điều-lệ-công-ty)
-- [Danh sách thành viên](../#danh-sách-thành-viên)
+- [Giấy đề nghị đăng ký doanh nghiệp](/#giấy-đề-nghị-đăng-ký-doanh-nghiệp)
+- [Điều lệ công ty](/#điều-lệ-công-ty)
+- [Danh sách thành viên](/#danh-sách-thành-viên)
 
 ### 🗓️ Kế hoạch hành trình
 
-- [Lịch trình dự kiến](./lich_trinh/)
-- [Bản đồ hành trình](../#lịch-trình-dự-kiến)
+- [Lịch trình dự kiến](/docs/lich_trinh/)
+- [Bản đồ hành trình](/#lịch-trình-dự-kiến)
 
 ## 🎯 Về dự án
 
@@ -33,4 +33,4 @@
 
 ---
 
-[⬅️ Quay lại trang chủ](../)
+[⬅️ Quay lại trang chủ](/)
